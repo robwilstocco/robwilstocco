@@ -8,8 +8,6 @@
 ## I'm learning:
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" />
 
-![Snake animation](https://github.com/robwilstocco/robwilstocco/blob/output/github-contribution-grid-snake.svg)
-
 <div>
 <a href="https://github.com/robwilstocco">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=robwilstocco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
