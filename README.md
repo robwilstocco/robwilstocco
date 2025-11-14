@@ -1,5 +1,5 @@
 # 👋 Hello! Welcome to my Github profile.
-## My name is Robert Wilson and my nickname is "Stocco"!
+## My name is Robert Wilson and I am a frontend developer!
 
 
 ## Tools and Technologies:
